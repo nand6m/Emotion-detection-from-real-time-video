@@ -1,8 +1,7 @@
 # Emotion-detection-from-real-time-video
-Emotion detection from a live video,
+Emotion detection from a live video.
 
 Install these dependencies with pip3 install <module name>
-
 tensorflow, 
 numpy,
 scipy,
