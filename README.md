@@ -13,4 +13,4 @@ h5py,
 keras
 
 Use Conda package manager to manage environment,
-Once environment is setup, use "pythonw emotions.py" to view results.
+Once environment is setup, use "python emotions.py" to view results.
