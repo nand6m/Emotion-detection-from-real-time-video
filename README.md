@@ -17,5 +17,5 @@ keras
 Use Conda package manager to manage environment,
 Once environment is setup, use `python3 emotions.py` to view results.
 
-Below are sample results
+Below are sample results  
 ![Results](https://github.com/nand6m/Emotion-detection-from-real-time-video/blob/master/Emotion%20detection%20result.png)
